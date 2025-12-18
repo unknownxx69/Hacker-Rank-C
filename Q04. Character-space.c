@@ -19,7 +19,7 @@
 // a c
 // Sample Output 0
 
-// The distance between a and c is 2
+//  The distance between a and c is 2
 
 #include<stdio.h>
 int main () {
