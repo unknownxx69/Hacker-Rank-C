@@ -7,7 +7,7 @@
 // Constraints
 
 // N/A
-
+  
 // Output Format
 
 // Single line printing exactly: Hello World!
